@@ -5,7 +5,7 @@ title: Home
 
 # Damian Skeen's website
 
-![myphoto](/images/Selfie.png)
+<img src=/images/selfie.png alt="My selfie" height="300 widt="200>
 
 ## Intrests
 - Video Games
