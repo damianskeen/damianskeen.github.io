@@ -3,8 +3,14 @@ layout: default
 title: Home
 ---
 
-# Welcome to My Site 🎉
+# Damian Skeen's website
 
-This is my very first GitHub Pages website using **Jekyll** and a theme.
+![myphoto][selfie.jpeg]
 
-![Sample Image](https://picsum.photos/400/200)
+##Intrests
+-[Video Games]
+-[Going to the Gym]
+
+##Cool facts about me
+1. Junior at BSU, Computer Science major
+2. I'm from a small town, Hansen, Idaho. y graduating class size was 16!
