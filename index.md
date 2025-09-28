@@ -5,7 +5,7 @@ title: Home
 
 # Damian Skeen's website
 
-![myphoto](selfie.jpeg)
+![myphoto][def]
 
 ## Intrests
 - Video Games
@@ -14,3 +14,6 @@ title: Home
 ## Cool facts about me
 1. Junior at BSU, Computer Science major
 2. I'm from a small town, Hansen, Idaho. y graduating class size was 16!
+
+
+[def]: selfie.jpeg
