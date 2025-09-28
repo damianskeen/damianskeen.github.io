@@ -5,7 +5,7 @@ title: Home
 
 # Damian Skeen's website
 
-![myphoto][selfie.jpeg]
+![myphoto](/images/Selfie.png)
 
 ## Intrests
 - Video Games
