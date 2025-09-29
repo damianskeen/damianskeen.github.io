@@ -5,9 +5,9 @@ title: Home
 
 # Damian Skeen's website
 
-![My selfie](images/Selfie.png)
+<img src="/images/Selfie.png" alt="My selfie"  height="300" width="200">
 
-## Intrests
+## Interests
 - Video Games
 - Going to the Gym
 
