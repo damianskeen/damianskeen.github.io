@@ -13,4 +13,4 @@ title: Home
 
 ## Cool facts about me
 1. Junior at BSU, and a Computer Science major
-2. I'm from a small town, Hansen, Idaho. y graduating class size was 16!
+2. I'm from a small town, Hansen, Idaho. My graduating class size was 16!
